@@ -1,1 +1,4 @@
-data/*
+data/*.venv/
+*.docx
+*.pdf
+~$*
